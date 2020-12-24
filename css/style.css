@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #F4F4F4;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  max-width: 1900px;
+}
+
+.form-search a {
+  margin: 0 20px;
+}
+
+.content {
+  height: 800px;
+  background-color: #a7bba2;
+}
+
+.line-content {
+  width: 100%;
+  height: 5px;
+  background-color: black;
+}
+
+
+.about-text {
+  padding-top: 80px;
+  font-weight: lighter;
+}
+
+.line {
+  width: 30%;
+   height: 2px;
+  background-color: rgb(255, 255, 255);
+}
+
+
+
+
+.but {
+  width: 30%;
+  margin-left: 35%;
+  border-radius: 12px;
+  font-size: 22px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.card-content {
+  background-color: #222222;
+  height: 1920px;
+}
+
+.line-card {
+   height: 4px;
+  background-color: white;
+}
+
+.cards-wrapper {
+  border: 15px;
+}
+
+.bat {
+  margin-left: 25%;
+  margin-top: 25px;
+  border-radius: 12px;
+  width: auto;
+  height: auto;
+  font-size: 22px;
+}
+
+
+.wrapper-form {
+  margin-top: 25px;
+  background-color: #a7bba2;
+}
